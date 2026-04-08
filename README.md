@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Profile
+<h1 align="center">
+Profile
+</h1>
 
 ![Muhammad Hafizh](image/github-header-banner.png)
 
