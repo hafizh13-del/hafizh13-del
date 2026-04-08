@@ -21,8 +21,8 @@ Profile
 
 ![Muhammad Hafizh](image/github-header-banner.png)
 
-- 🧑‍💼 Saya seorang **Data Analis**
-- 💻 Berbasis [**Laravel**](https://laravel.com) dan **Python**
+- #### 🧑‍💼 Saya seorang **Data Analis**
+- #### 💻 Berbasis [**Laravel**](https://laravel.com) dan **Python**
 
 ## Pengalaman
 
