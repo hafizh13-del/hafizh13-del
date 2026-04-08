@@ -27,7 +27,7 @@ Profile
 ## Pengalaman
 
 - Mempunyai pengalaman pada bidang data selama **1 tahun** menggunakan Microsoft Excel
-- Terbiasa dalam mengolah data secara real-rime
+- Terbiasa dalam mengolah data secara real-time
 - Membuat laporan harian, mingguan, bulanan, dan tahunan
 - Membuat visualisasi data secara akurat
 - Dapat merangkum data agar lebih cepat di proses
