@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -24,13 +23,13 @@ Profile
 - #### 🧑‍💼 Saya seorang **Data Analis**
 - #### 💻 Berbasis [**Laravel**](https://laravel.com) dan **Python**
 
+- 📫 How to reach me: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> hzfez13@gmail.com
+
 ## Pengalaman
 
 - Mempunyai pengalaman pada bidang data selama **1 tahun** menggunakan Microsoft Excel
 - Terbiasa dalam mengolah data secara real-time
 - Membuat laporan harian, mingguan, bulanan, dan tahunan
-- Membuat visualisasi data secara akurat
-- Dapat merangkum data agar lebih cepat di proses
 - Membuat basic CRUD dengan laravel
 - Integrasi Database dengan SQL
 - Penggunaan Domain Hosting
